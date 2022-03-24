@@ -413,7 +413,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              fontSize: "12px",
+              fontSize: "10px",
               color: "var(--primary-text)",
             }}
           >
@@ -422,17 +422,6 @@ function App() {
             Once you make the purchase, you cannot undo this action.
           </s.TextDescription>
           <s.SpacerSmall />
-          <s.TextDescription
-            style={{
-              textAlign: "center",
-              fontSize: "12px",
-              color: "var(--primary-text)",
-            }}
-          >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
-          </s.TextDescription>
         </s.Container>
       </s.Container>
     </s.Screen>
