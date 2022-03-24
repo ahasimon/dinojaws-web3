@@ -220,6 +220,7 @@ function App() {
               padding: 24,
               borderRadius: 24,
               border: "4px solid var(--secondary)",
+              borderColor: "white",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
           >
