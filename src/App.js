@@ -413,7 +413,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              fontSize: "4px",
+              fontSize: "12px",
               color: "var(--primary-text)",
             }}
           >
@@ -425,7 +425,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              fontSize: "4px",
+              fontSize: "12px",
               color: "var(--primary-text)",
             }}
           >
