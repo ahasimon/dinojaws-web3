@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA41962E6ad8E3cC2ED372B234E3BdcfF30CA85F3",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa41962e6ad8e3cc2ed372b234e3bdcff30ca85f3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DinoJaws",
+  "SYMBOL": "DJNFT",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dinojaws",
+  "SHOW_BACKGROUND": true
+}
